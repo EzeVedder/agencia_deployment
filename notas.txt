@@ -1,0 +1,20 @@
+1-
+Iniciamos con npm init, esto nos va a generar el package.json
+2-
+Instalamos las dependencias para poder trabajar con Express, Nodemon y Body-Parser (Esto va a generar la carpeta node_modules donde se guardan las dependencias y las dependencias de las dependencias)
+3-
+Creamos la carpeta public
+Creamos la carpeta server y creamos el index.js
+4- 
+El use responde a todos los verbos de peticiones http
+5-
+En la carpeta server creamos otra carpeta llamada routes
+6-
+Template Engines Pug EJS Haml Handlebars
+7-
+Creamos la carpeta views dentro de server
+8-
+La pagina HTML to JADE/PUG convierte codigo html a codigo que pug puede interpretar
+
+
+
